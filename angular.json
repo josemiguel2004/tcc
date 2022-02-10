@@ -27,9 +27,13 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "C:/angular/tcc/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": [
+              "C:/angular/tcc/node_modules/bootstrap/dist/css/bootstrap.css",
+              "C:/angular/tcc/node_modules/jquery/dist/jquery.js"
+            ]
           },
           "configurations": {
             "production": {
