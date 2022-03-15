@@ -18,8 +18,9 @@
   position: absolute;
   top: 0;
   left: 0;
-  min-width: 100%;
+  min-width: 80%;
   height: 32rem;
+
 }
 
 /* RESPONSIVE CSS
@@ -42,4 +43,20 @@
   /* COLOQUE AQUI A ALTURA QUE DESEJA */
   width: 80px;
   height: 50px;
+}
+
+.acumputura{
+  width: 250px;
+  height: 105px;
+
+}
+
+.rpg{
+  width: 250px;
+  height: 105px;
+}
+
+.pilates{
+  width: 250px;
+  height: 105px;
 }
